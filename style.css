@@ -1,0 +1,51 @@
+#body{
+    background-color: rgb(255, 66, 66);
+}
+
+.div-img{
+    background: #fff;
+    width: 70px; 
+    display: flex;
+    justify-content: center;
+    border-radius: 40px;
+}
+
+.div-cont{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.div-text-h1{
+    text-align: center;
+}
+
+.div-text-h1 > h1{
+    font-size: 55px;
+    font-family: 'Metrophobic', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Varela Round', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    color: white;
+}
+
+.div-cont-sec{
+    display: flex;
+    margin-top: -80px;
+    justify-content: center;
+}
+
+.div-but-cont{
+    margin-top: -100px;
+    display: flex;
+    justify-content: center;
+}
+
+#button-next{
+    background: #fff;
+    color: orangered;
+    border: none;
+    border-radius: 30px;
+    width: 314px;
+    height: 70px;
+}
